@@ -28,16 +28,48 @@ h1{
     width: 330px;
 }
 .section{
-    display: flex;
+    display: flex; 
+    margin-bottom: 50px;
 }
 .half{
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
 }
+.aa{
+    text-align: center;
+    font-size: 20px;
+}
+.second{
+    width: 200px;
+}
+.bb{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    padding-left: 3px;  
+}
+#id-no1{
+    border: 3px solid white;
+    border-radius: 6%;
+    padding-left: 5px;
+    background-image: linear-gradient(cyan, rgb(94, 94, 206));
+}
 
+#id-no2{
+     border: 3px solid white;
+     border-radius: 6%;
+     padding-left: 5px;
+    background-image: linear-gradient(tomato, purple);
 
-
+}
+#id-no3{
+        border: 3px solid white;
+        border-radius: 6%;
+        padding-left: 5px;
+        background-image: linear-gradient(cyan, rgb(94, 94, 206));
+    }
 
 
 
