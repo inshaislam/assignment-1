@@ -48,7 +48,8 @@ h1{
     margin-left: 2%;
     margin-right: 2%;
     text-align: justify;
-    padding-left: 3px;  
+    padding-left: 8px;  
+    padding-right: 4px;
 }
 #id-no1{
     border: 3px solid white;
