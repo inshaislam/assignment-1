@@ -29,7 +29,7 @@ h1{
 }
 .section{
     display: flex; 
-    margin-bottom: 50px;
+    margin-bottom: 150px;
 }
 .half{
     width: 40%;
@@ -41,12 +41,12 @@ h1{
     font-size: 20px;
 }
 .second{
-    width: 200px;
+    width: 130px;
 }
 .bb{
     width: 30%;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
     text-align: justify;
     padding-left: 3px;  
 }
@@ -68,7 +68,7 @@ h1{
         border: 3px solid white;
         border-radius: 6%;
         padding-left: 5px;
-        background-image: linear-gradient(cyan, rgb(94, 94, 206));
+        background-image: linear-gradient(rgb(126, 192, 21), rgb(94, 94, 206));
     }
 
 
